@@ -1,0 +1,8 @@
+import datetime
+def x(a, b):
+    z = 1
+    def y(a, b):
+        return "hey"
+    return z
+x("hello", 2)
+y("hello", 2)
